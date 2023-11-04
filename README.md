@@ -1,4 +1,7 @@
 # Subjective Assembly
+
+***THIS REPOSITORY IS NOW ARCHIVED AND FUTURE UPDATES ARE NOW ON THE ORGANISATION REPOSITORY [HERE](https://bit.ly/github.com/SubjectiveAssembly/SubjectiveAssembly).***
+
 Create, manage and host student timetables and school bell times for Subjective: the **school-driven, student-centric** iOS class and learning organisation app.
 Use this repository to self-host Assembly with the source code.
 
